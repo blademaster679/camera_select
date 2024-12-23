@@ -1,0 +1,3 @@
+/home/blade_master/camera_select/build/CMakeFiles/camera_matrix_base.dir
+/home/blade_master/camera_select/build/CMakeFiles/edit_cache.dir
+/home/blade_master/camera_select/build/CMakeFiles/rebuild_cache.dir
